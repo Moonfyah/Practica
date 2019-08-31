@@ -10,6 +10,7 @@ namespace Clase4
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hola soy Vivian");
         }
     }
 }
